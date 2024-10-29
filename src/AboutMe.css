@@ -1,0 +1,31 @@
+.AboutMe{
+    display: flex;
+    flex-direction: column;
+}
+.AboutMe-Header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.AboutMe-Img{
+max-width: 300px;
+max-height:250px;
+border-radius: 150px;
+border: 5px solid antiquewhite;
+}
+.AboutMe-Title{
+    color: antiquewhite;
+    font-size: 80px;
+}
+.AboutMe-Sub{
+    color: antiquewhite;
+    font-size: 30px;
+}
+
+.AboutMe-Text{
+    color: antiquewhite;
+    max-width: 1000px;
+}
