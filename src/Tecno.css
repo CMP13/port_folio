@@ -1,0 +1,128 @@
+.TecnoComp {
+    display: flex;
+    flex-direction: column;
+}
+
+.TecnoTitle {
+    color: antiquewhite;
+    font-size: 80px;
+}
+
+.TecnoSub {
+    color: #239afc;
+    font-size: 50px;
+}
+
+.Skills {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 2em;
+}
+
+.HTML {
+    display: flex;
+    background-color: orange;
+    color: antiquewhite;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid orangered;
+    align-items: center;
+    padding: 3px;
+}
+.CSS {
+    display: flex;
+    background-color:cornflowerblue;
+    color: antiquewhite;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid aqua;
+    align-items: center;
+    padding: 3px;
+}
+.C {
+    display: flex;
+    background-color: green;
+    color: antiquewhite;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid greenyellow;
+    align-items: center;
+    padding: 3px;
+}
+.JS {
+    display: flex;
+    background-color:black;
+    color: antiquewhite;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    align-items: center;
+    padding: 3px;
+}
+
+.React {
+    display: flex;
+    background-color:grey;
+    color: antiquewhite;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid aqua;
+    align-items: center;
+    padding: 3px;
+}
+
+.Boot {
+    display: flex;
+    background-color:grey;
+    color: antiquewhite;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid plum;
+    align-items: center;
+    padding: 3px;
+}
+
+.Vue {
+    display: flex;
+    background-color:black;
+    color: antiquewhite;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid greenyellow;
+    align-items: center;
+    padding: 3px;
+}
+
+.Github {
+    display: flex;
+    background-color:antiquewhite;
+    color: black;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+    align-items: center;
+    padding: 3px;
+}
+
+.VS {
+    display: flex;
+    background-color:grey;
+    color: antiquewhite;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid blue;
+    align-items: center;
+    padding: 3px;
+}
+
+.Unity {
+    display: flex;
+    background-color:antiquewhite;
+    color: black;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+    align-items: center;
+    padding: 3px;
+}
