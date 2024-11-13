@@ -1,0 +1,19 @@
+.Study{
+    display: flex;
+    flex-direction: column;
+}
+
+.Title{
+    color: antiquewhite;
+    font-size: 80px;
+}
+
+.SubTitle{
+    color: #239afc;
+    font-size: 50px;
+}
+
+.SubSub{
+    color: antiquewhite;
+    font-size: 20px;
+}
