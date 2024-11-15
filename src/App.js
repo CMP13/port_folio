@@ -5,6 +5,7 @@ import Project from './Projects.jsx'
 import SideBar from './SideBar.jsx'
 import Tecno from './Tecno.jsx';
 import Studio from './Studies.jsx'
+import Contact from './Contact.jsx';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Project />
         <Tecno />
         <Studio />
+        <Contact />
       </main>
     </div>
   );

@@ -1,0 +1,41 @@
+.Principal{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.Title-Contact{
+    color: antiquewhite;
+    font-size: 80px;
+}
+
+.Methods{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 2em;
+}
+
+.Method{
+    display: flex;
+    align-items: center;
+    color: antiquewhite;
+    font-size: 20px;
+
+}
+
+.Method a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.CV{
+    border-radius: 5px;
+    border: 1px solid antiquewhite;
+    color: antiquewhite;
+    background-color: #239afc;
+    max-width: 100px;
+    text-decoration: none;
+    padding: 5px;
+
+}
