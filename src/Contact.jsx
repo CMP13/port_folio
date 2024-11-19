@@ -4,7 +4,7 @@ import CV from './PDF/CV_Carlos_Molina.pdf';
 
 function Contact() {
     return (
-        <div className="Principal">
+        <div className="Principal" id="Contact">
             <h1 className="Title-Contact">Contactame</h1>
             <div className="Methods">
                 <div className="Method">

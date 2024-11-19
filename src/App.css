@@ -18,4 +18,11 @@ main{
   gap: 300px;
 }
 
+section[id]{
+  scroll-margin-top: 50px;
+}
+
+html{
+  scroll-behavior: smooth;
+}
 

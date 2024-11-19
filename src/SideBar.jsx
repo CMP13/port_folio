@@ -7,22 +7,27 @@ function SideBar() {
             <div className="barnav">
                 <ul>
                     <li>
-                        <a href="">
+                        <a href="#AboutMe">
                             <span>Sobre mi</span>
                         </a>
                     </li>
                     <li>
-                        <a href="">
+                        <a href="#Projects">
                             <span>Mis proyectos</span>
                         </a>
                     </li>
                     <li>
-                        <a href="">
+                        <a href="#Tecno">
                             <span>Mis puntos fuertes</span>
                         </a>
                     </li>
                     <li>
-                        <a href="">
+                        <a href="#Study">
+                            <span>Estudios</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#Contact">
                             <span>Contacto</span>
                         </a>
                     </li>

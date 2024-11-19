@@ -3,7 +3,7 @@ import './Tecno.css';
 
 function Tecno() {
     return (
-        <div className="TecnoComp">
+        <div className="TecnoComp" id="Tecno">
             <h1 className="TecnoTitle">Skills</h1>
             <div>
                 <h2 className="TecnoSub">Lenguajes de programacion</h2>
