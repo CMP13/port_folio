@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/port_folio/static/css/main.f793ed89.css",
+    "main.js": "/port_folio/static/js/main.cf986c68.js",
+    "static/js/453.3f00d66f.chunk.js": "/port_folio/static/js/453.3f00d66f.chunk.js",
+    "static/media/Portfolio.png": "/port_folio/static/media/Portfolio.72b56b3aba9f6d3da4cd.png",
+    "static/media/Multi.png": "/port_folio/static/media/Multi.e2ac70d3428d2d7099c6.png",
+    "static/media/CV_Carlos_Molina.pdf": "/port_folio/static/media/CV_Carlos_Molina.39a4d73c42581d9d7ea9.pdf",
+    "static/media/MiFoto.jpeg": "/port_folio/static/media/MiFoto.2f4127674731c78aff0e.jpeg",
+    "static/media/NuclearBark.png": "/port_folio/static/media/NuclearBark.b403a909a8a7b3a7ac5c.png",
+    "index.html": "/port_folio/index.html",
+    "main.f793ed89.css.map": "/port_folio/static/css/main.f793ed89.css.map",
+    "main.cf986c68.js.map": "/port_folio/static/js/main.cf986c68.js.map",
+    "453.3f00d66f.chunk.js.map": "/port_folio/static/js/453.3f00d66f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f793ed89.css",
+    "static/js/main.cf986c68.js"
+  ]
+}
