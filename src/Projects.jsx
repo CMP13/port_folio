@@ -1,7 +1,7 @@
 import React from "react";
 import Foto1 from "./img/NuclearBark.png"
 import Foto2 from "./img/Portfolio.png"
-import Foto3 from "./img/Multi.png"
+import Foto3 from "./img/2D.png"
 import './Project.css';
 
 function Projects() {
@@ -42,7 +42,7 @@ function Projects() {
 
                 <div className="item">
                     {/*Imagen de portada*/}
-                    <a href="https://github.com/CMP13/NuclearBark" target="_blank">
+                    <a href="https://cmp13.github.io/port_folio" target="_blank">
                         <img src={Foto2} alt="Portfolio" />
                     </a>
 
@@ -74,18 +74,18 @@ function Projects() {
 
                 <div className="item">
                     {/*Imagen de portada*/}
-                    <a href="https://github.com/CMP13/NuclearBark" target="_blank">
-                        <img src={Foto3} alt="Font of Life" />
+                    <a href="https://github.com/CMP13/2DGenerator" target="_blank">
+                        <img src={Foto3} alt="Generador de Mundo 2D" />
                     </a>
 
                     {/*Titulo proyecto*/}
                     <p>
-                        Font of Life
+                        Generador de Mundo 2D
                     </p>
                     {/*Descripcion proyecto*/}
                     <p>
-                        Videojuego multijugador cooperativo en el que los jugadores deberan cooperar
-                        para proteger la fuente del centro del mapa de los no-muertos que apareceran.
+                        Videojuego que genera un mundo en 2D de manera procedural con 
+                        diferentes biomas y podremos explorarlo con nuestro persojane.
                     </p>
                     {/*Iconos de tecnologias utilizadas*/}
                     <p>

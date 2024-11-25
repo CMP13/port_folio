@@ -2,6 +2,7 @@
   text-align: center;
   background-color: #484b50;
   min-height: 100vh;
+  width: auto;
   display: flex;
   grid-template-columns: auto 1fr;
 }
