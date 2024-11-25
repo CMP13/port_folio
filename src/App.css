@@ -2,20 +2,22 @@
   text-align: center;
   background-color: #484b50;
   min-height: 100vh;
-  width: auto;
+  min-width: 100vh;
   display: flex;
   grid-template-columns: auto 1fr;
+  overflow: auto;
+  overflow-y: auto;
 }
 
 main{
-  padding-left: 30%;
+  padding-left: 50vh;
   display: flex;
   text-align: center;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  margin-top: 10%;
-  margin-bottom: 10%;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
   gap: 300px;
 }
 
