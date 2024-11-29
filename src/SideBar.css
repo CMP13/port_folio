@@ -32,3 +32,23 @@
     color: #282c34;
     background-color: #76c1ff;
 }
+
+@media screen and (max-width:1500px){
+    #sidebar{
+        display: inline;
+        height: 10vh;
+        width: 100%;
+        top: 0;
+        left: 0;
+        right: 0;
+    }
+
+    #sidebar li{
+        display: inline;
+
+    }
+
+    #sidebar a {
+        display: inline;
+    }
+}
